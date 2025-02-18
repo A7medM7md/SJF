@@ -1,2 +1,3 @@
 # SJF
-Shortest Job First [CPU Scheduling]
+## Shortest Job First [CPU Scheduling]
+### Implement SJF Algorithm Using Java 
