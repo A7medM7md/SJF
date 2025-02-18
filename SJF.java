@@ -39,7 +39,7 @@ public class SJF {
         //== Main Part Of The Program ==
         //==============================
         while(true) {
-            int curr = nProcess , min_Brust = 2147483647;
+            int curr = nProcess , min_Brust = Integer.MAX_VALUE;
 
             // Check all Process Finished or not
             if (Total == nProcess)
